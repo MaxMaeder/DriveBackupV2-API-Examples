@@ -1,6 +1,6 @@
-name: StopExample
+name: TimeExample
 version: 1.0.0
 description: An example use case of the DriveBackupV2 API
-main: MaxMaeder.StopExample.StopExample
+main: MaxMaeder.TimeExample.TimeExample
 author: MaxTheGinus
 depend: [DriveBackupV2]

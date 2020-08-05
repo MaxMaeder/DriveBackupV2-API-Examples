@@ -3,7 +3,7 @@
 
 In this repository are several example Bukkit plugins that demonstrate how to use the DriveBackupV2 API.
 
-**[API Documentation](https://github.com/MaxMaeder/DriveBackupV2/wiki/Using-the-API)** · **[Download DriveBackupV2](https://dev.bukkit.org/projects/drivebackupv2)** ·  **[Download These Examples](https://github.com/MaxMaeder/DriveBackupV2-API-Examples/releases)**
+**[API Documentation](https://github.com/MaxMaeder/DriveBackupV2/wiki/Using-the-API)** · **[Download DriveBackupV2](https://dev.bukkit.org/projects/drivebackupv2)** ·  **[Download These Examples](https://github.com/MaxMaeder/DriveBackupV2-API-Examples/releases/latest)**
 
 ## Leave Example
 This plugin will run a backup every time a player leaves the server.
